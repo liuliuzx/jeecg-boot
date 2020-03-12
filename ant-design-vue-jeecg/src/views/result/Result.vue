@@ -39,7 +39,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .result {
     text-align: center;
     width: 72%;

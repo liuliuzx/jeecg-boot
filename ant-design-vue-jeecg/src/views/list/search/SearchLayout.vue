@@ -63,7 +63,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .search-head{
     background-color: #fff;
     margin: -25px -24px -24px;

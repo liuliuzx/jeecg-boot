@@ -318,7 +318,7 @@
     }
   }
 </script>
-<style lang="less">
+<style lang="scss">
   .user-register {
 
     &.error {
@@ -341,7 +341,7 @@
     }
   }
 </style>
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .user-layout-register {
 
     & > h3 {
