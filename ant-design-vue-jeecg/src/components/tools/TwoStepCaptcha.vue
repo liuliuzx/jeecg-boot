@@ -80,7 +80,7 @@ export default {
   }
 };
 </script>
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .step-form-wrapper {
     margin: 0 auto;
     width: 80%;

@@ -84,7 +84,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .content {
     margin: 24px 24px 0;
 

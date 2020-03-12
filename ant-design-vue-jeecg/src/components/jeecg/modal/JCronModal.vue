@@ -829,7 +829,7 @@
   }
 </script>
 
-<style lang="less">
+<style lang="scss">
   .card-container {
     background: #fff;
     overflow: hidden;
@@ -877,7 +877,7 @@
     }
   }
 </style>
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .container-widthEn{
     width: 755px;
   }

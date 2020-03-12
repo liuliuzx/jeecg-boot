@@ -60,7 +60,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .extra-img {
     margin-top: -60px;
     text-align: center;

@@ -30,7 +30,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .head-info {
     position: relative;
     text-align: left;

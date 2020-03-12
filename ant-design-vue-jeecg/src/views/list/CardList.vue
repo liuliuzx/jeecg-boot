@@ -59,7 +59,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .card-avatar {
     width: 48px;
     height: 48px;

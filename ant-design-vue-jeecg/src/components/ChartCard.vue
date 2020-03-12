@@ -42,7 +42,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .chart-card-header {
     position: relative;
     overflow: hidden;

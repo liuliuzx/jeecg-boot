@@ -34,7 +34,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .chart-mini-progress {
     padding: 5px 0;
     position: relative;
