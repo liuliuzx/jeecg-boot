@@ -22,7 +22,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .footer {
     padding: 0 16px;
     margin: 48px 0 24px;

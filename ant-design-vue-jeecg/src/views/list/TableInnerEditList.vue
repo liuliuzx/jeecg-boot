@@ -248,7 +248,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .search {
     margin-bottom: 54px;
   }

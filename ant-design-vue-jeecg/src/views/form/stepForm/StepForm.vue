@@ -54,7 +54,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .steps {
     max-width: 750px;
     margin: 16px auto;

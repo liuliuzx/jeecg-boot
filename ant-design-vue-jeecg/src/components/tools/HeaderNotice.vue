@@ -324,7 +324,7 @@
     top: 50px !important;
   }
 </style>
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .header-notice{
     display: inline-block;
     transition: all 0.3s;

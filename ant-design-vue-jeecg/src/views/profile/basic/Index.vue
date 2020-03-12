@@ -245,7 +245,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .title {
     color: rgba(0,0,0,.85);
     font-size: 16px;

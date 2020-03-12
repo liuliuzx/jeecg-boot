@@ -33,7 +33,7 @@
   }
 </script>
 
-<style lang="less">
+<style lang="scss">
 
   /*
  * The following styles are auto-applied to elements with

@@ -132,25 +132,27 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .j-select-biz-component-box {
 
-    @width: 82px;
+    $width: 82px;
 
     .left {
-      width: calc(100% - @width - 8px);
+      width: calc(100% - #{$width} - 8px);
     }
 
     .right {
-      width: @width ;
+      width: #{$width};
     }
 
     .full {
       width: 100%;
     }
 
-    /deep/ .ant-select-search__field {
+    /deep/ {
+      .ant-select-search__field {
         display: none !important;
       }
+    }
   }
 </style>

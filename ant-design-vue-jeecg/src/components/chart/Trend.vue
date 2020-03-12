@@ -52,7 +52,7 @@
   }
 </script>
 
-<style lang="less" scoped>
+<style lang="scss" scoped>
   .chart-trend {
     display: inline-block;
     font-size: 14px;
